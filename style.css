@@ -1,0 +1,12 @@
+/* style.css */
+
+h1 {
+    text-align: center;
+}
+
+button {
+    font-size: 30px;
+    color: red;
+    background-color: white;
+
+}
